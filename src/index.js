@@ -1,6 +1,6 @@
 // complete the function
 function prime (num) {
-  // code goes here
+  return Boolean(num % 2);
 }
 
 function solution (arg) {
